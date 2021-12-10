@@ -1,0 +1,27 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "A simple API to learn about Node.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludico1959/node-farm.git"
+  },
+  "keywords": [
+    "node",
+    "farm"
+  ],
+  "author": "Lucas Dias Coelho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludico1959/node-farm/issues"
+  },
+  "homepage": "https://github.com/ludico1959/node-farm#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
