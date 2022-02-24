@@ -4,7 +4,7 @@ This simple API is about filling some farm products data from a JSON file into w
 
 ## 💾 Resources
 
-- Node.JS v14.17.6;
+- Node.JS;
 - Node.JS Core Modules:
   - fs,
   - http,
